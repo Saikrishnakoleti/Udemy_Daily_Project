@@ -1,0 +1,10 @@
+  .App {
+    text-align: center;
+  }
+  .unit {
+    font-size: 30px
+  }
+  .connect {
+    font-weight: bold;
+    color: rgb(200, 243, 200);
+  }
